@@ -1,6 +1,6 @@
-https://docs.aws.amazon.com/lambda/latest/dg/python-programming-model.html
-https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html
-https://docs.python.org/3/reference/compound_stmts.html#the-if-statement
+- https://docs.aws.amazon.com/lambda/latest/dg/python-programming-model.html
+- https://docs.aws.amazon.com/lambda/latest/dg/python-handler.html
+- https://docs.python.org/3/reference/compound_stmts.html#the-if-statement
 
 ``myLambdaTest`` using ``python 3.13``
 
