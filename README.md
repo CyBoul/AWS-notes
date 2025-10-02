@@ -1,2 +1,5 @@
-# AWS-notes
-Amazon Web Services / Cloud notes
+# Cloud notes
+
+- lab notes
+- python scripts
+- guides
